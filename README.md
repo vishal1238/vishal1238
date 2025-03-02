@@ -7,7 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal1238&label=Profile%20views&color=0e75b6&style=flat" alt="vishal1238" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vikashg6393" target="blank"><img src="https://img.shields.io/twitter/follow/vikashg6393?logo=twitter&style=for-the-badge" alt="vikashg6393" /></a> </p>
+<p align="left">   
+    <a href="www.linkedin.com/in/vishal-gupta-914941296" target="blank">  
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Your LinkedIn Username" />  
+    </a>   
+</p>  
 
 - 🔭 I’m currently working on **E-Commerce Fullstack website**
 
