@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React , javascript & Java advanced topics**
 
-- 💬 Ask me about **Html , tailwild**
+- 💬 Ask me about **React , javascript**
 
 - 📫 How to reach me **webervishal@gmail.com**
 
